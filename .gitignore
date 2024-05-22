@@ -1,3 +1,9 @@
+# Confidential
+cb/dataset/example.py
+cb/example/contentsbased_example.py
+cb/src/
+*.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
